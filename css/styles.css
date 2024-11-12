@@ -25,4 +25,13 @@ overflow: hidden;
       list-style: none;
       
   }
- 
+ gallery-link {
+  width: 360px;
+  height: 200px;
+  display: block;
+ }
+.gallery-item {
+  width: 360px;
+    height: 200px;
+    display: block;
+}
