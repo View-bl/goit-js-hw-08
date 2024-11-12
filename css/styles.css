@@ -1,11 +1,11 @@
   body {
-
+background-color: rgba(46, 47, 66, 0.8);
       margin: 0;
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100%;
-
+overflow: hidden;
   }
 
   /* L i*/
@@ -18,35 +18,11 @@
   }
 
   .gallery {
-      width: 100%;
-      max-height: 100%;
+    padding: 24px 156px 24px 156px;
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 24px;
-      background-color: rgba(46, 47, 66, 0.8);
-
       list-style: none;
-      padding: 24px 156px 24px 156px;
+      
   }
-
-  /* .translated-ltr {
-
-      overflow: hidden;
-      height: 100%;
-  } */
-
-  /* .gallery-image {
-      max-height: 300px;
-  }
-
-  .gallery-link {
-      width: 360px;
-      height: 200px;
-      display: block;
-  } */
-
-  /* .gallery-item {
-      display: block;
-    width: 360px;
-        height: 200px;
-  } */
+ 
