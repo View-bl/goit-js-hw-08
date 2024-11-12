@@ -4,7 +4,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 101%;
+      height: 100%;
 
   }
 
@@ -29,13 +29,13 @@
       padding: 24px 156px 24px 156px;
   }
 
-  .translated-ltr {
+  /* .translated-ltr {
 
       overflow: hidden;
       height: 100%;
-  }
+  } */
 
-  .gallery-image {
+  /* .gallery-image {
       max-height: 300px;
   }
 
@@ -43,8 +43,10 @@
       width: 360px;
       height: 200px;
       display: block;
-  }
+  } */
 
-  .gallery-item {
+  /* .gallery-item {
       display: block;
-  }
+    width: 360px;
+        height: 200px;
+  } */
