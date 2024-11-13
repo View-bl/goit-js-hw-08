@@ -18,20 +18,23 @@ overflow: hidden;
   }
 
   .gallery {
-    padding: 24px 156px 24px 156px;
+    width: 1300px;
+    height: 700px;
+    padding: 156px 156px 156px 156px;
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 24px;
       list-style: none;
-      
+      object-fit: cover;
+     
   }
  .gallery-link {
-  width: 360px;
-  height: 200px;
+  width: 415px;
+  height: 215px;
   display: block;
  }
 .gallery-item {
-  width: 360px;
-    height: 200px;
+  width: 415px;
+    height: 215px;
     display: block;
 }

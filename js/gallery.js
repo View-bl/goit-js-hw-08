@@ -76,8 +76,8 @@ const galleryItems = images
             src="${preview}"
             data-source="${original}"
             alt="${description}"
-            height="200"
-            width="360"
+            height="215"
+            width="415"
           />
         </a>
       </li>
