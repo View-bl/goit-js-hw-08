@@ -20,7 +20,7 @@ overflow: hidden;
   .gallery {
     width: 1300px;
     height: 700px;
-    padding: 156px 156px 156px 156px;
+    padding: 90px 156px 156px 156px;
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 24px;
